@@ -1,2 +1,2 @@
-# concourse-101
+# CONCOURSE CI-101
 Absolute Beginners Guide to Concourse CI
